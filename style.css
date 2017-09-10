@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	text-align:center;
+	background-color:black;
+}
+
+button {
+	margin-top:100px;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+#container {
+	background-color:red;
+	height:172px;
+	width:400px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	border-radius:3px;
+	border:solid 2px white;
+	background-color:black;
+	color:white;
+	text-align:left;
+	padding:3px;
+	overflow:hidden;
+	}
